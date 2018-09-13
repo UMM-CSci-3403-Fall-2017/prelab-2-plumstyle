@@ -90,6 +90,7 @@ int main() {
       printf("The string '%s' is NOT clean.\n", strings[i]);
     }
   }
+  
 
   return 0;
 }
